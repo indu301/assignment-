@@ -1,0 +1,28 @@
+# Input two numbers
+A = 10
+B = 5
+
+# Perform arithmetic operations
+addition = 10 + 5
+subtraction = 10 - 5
+multiplication = 10 * 5
+division = 10 / 5
+log_num1 = math.log(num1) 
+log_num2 = math.log(num2)
+
+# Display the results
+print(f"Addition: {10} + {5} = {addition}")
+print(f"Subtraction: {10} - {5} = {subtraction}")
+print(f"Multiplication: {10} * {5} = {multiplication}")
+print(f"Division: {10} / {5} = {division}")
+print(f"Logarithm of {num1} (base e) = {log_10}")
+print(f"Logarithm of {num2} (base e) = {log_5}")
+
+
+#OUTPUT
+Addition: 10 + 5 = 15
+Subtraction: 10 - 5 = 5
+Multiplication: 10 * 5 = 50
+Division: 10 / 5 = 2.0
+Logarithm of 10 (base e) = 2.302585092994046
+Logarithm of 5 (base e) = 1.6094379124341003
